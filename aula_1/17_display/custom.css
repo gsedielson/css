@@ -1,0 +1,16 @@
+body{
+    background-color: #e8e8e8;
+    color: #2d49a6;
+}
+.texto_dois{
+    display: none;
+}
+.texto-quatro{
+    visibility: hidden;
+}
+.texto-seis{
+    display: block;
+}
+li{
+    display: inline;
+}
